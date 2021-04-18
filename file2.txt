@@ -1,2 +1,0 @@
-ciao sono file 2
-ho aggiunto questa riga successivamente
